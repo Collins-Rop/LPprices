@@ -1,11 +1,11 @@
 # LPprices
 Prediction.
 A simple Machine learning web app deployed which predict laptop prices according to laptop configuration defined by user.
-## Usage
+# Usage
 Running the Application
 Start the application:
 
-# bash
+## bash
 Copy code
 python app.py
 Open your web browser and go to http://localhost:5000 to access the application.
@@ -31,3 +31,34 @@ Screen Size
 Operating System
 Weight
 You can obtain the dataset from the data folder in this repository or use your own dataset with similar features.
+## Model Training
+The model training process involves the following steps:
+
+Data Preprocessing: Cleaning and preparing the data for training.
+Feature Engineering: Creating new features or transforming existing ones.
+Model Selection: Choosing the appropriate machine learning algorithm.
+Training: Training the model using the prepared data.
+Evaluation: Evaluating the model's performance using metrics like RMSE, MAE, and R^2.
+Model Training
+The model training process involves the following steps:
+
+Data Preprocessing: Cleaning and preparing the data for training.
+Feature Engineering: Creating new features or transforming existing ones.
+Model Selection: Choosing the appropriate machine learning algorithm.
+Training: Training the model using the prepared data.
+Evaluation: Evaluating the model's performance using metrics like RMSE, MAE, and R^2.
+
+## Contributing
+We welcome contributions to the Laptop Price Prediction System! Here are some ways you can help:
+
+Reporting bugs and issues
+Suggesting new features
+Improving documentation
+Contributing code
+
+## How to Contribute
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
