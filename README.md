@@ -7,7 +7,7 @@ Start the application:
 
 ## bash
 Copy code
-python app.py
+python app.py or py app.py
 Open your web browser and go to http://localhost:5000 to access the application.
 
 ## Predicting Laptop Prices
