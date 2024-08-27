@@ -5,7 +5,7 @@ A simple Machine learning web app deployed which predict laptop prices according
 Running the Application
 Start the application:
 
-## bash
+## Bash
 Copy code
 streamlit run app.py
 Open your web browser and go to http://localhost:5000 to access the application.
